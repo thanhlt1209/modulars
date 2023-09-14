@@ -401,10 +401,6 @@ a {
     padding-left: 18px;
 }
 
-.service-item:hover .service-item__img {
-    transform: scale(1.1);
-}
-
 .service-item__thumb {
     width: 370px;
     height: 318px;
