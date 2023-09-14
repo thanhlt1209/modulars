@@ -67,7 +67,7 @@ a {
 
 .section-heading__line {
     margin-left: 10px;
-    margin-bottom: 7px;
+    margin-bottom: 10px;
 }
 
 .section-title {
@@ -326,6 +326,7 @@ a {
 }
 
 .brand__logo {
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: space-between;
